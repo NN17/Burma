@@ -1,4 +1,4 @@
-<?php namespace Buonzz\Template;
+<?php namespace NN17\Burma;
 
 /**
 *  A sample class
@@ -8,7 +8,7 @@
 *
 *  @author yourname
 */
-class YourClass{
+class Burma{
 
    /**  @var string $m_SampleProperty define here what this variable is for, do this for every instance variable */
    private $m_SampleProperty = '';
@@ -23,7 +23,7 @@ class YourClass{
   *
   * @return string
   */
-   public function method1($param1){
-			return "Hello World";
+   public function State($param1){
+		return "Hello World";
    }
 }
