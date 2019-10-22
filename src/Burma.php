@@ -23,7 +23,7 @@ class Burma{
   *
   * @return string
   */
-   public function State($param1){
+   public static function state($parm1){
 		return "Hello World";
    }
 }
