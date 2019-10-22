@@ -1,0 +1,28 @@
+{
+  "name": "nn17/burma",
+  "description": "States, Regions, Districts, Townships, Postal Codes and NRC Format Codes of Myanmar.",
+  "keywords": [
+    "Myanmar",
+    "composer",
+    "package"
+  ],
+  "license": "0BSD",
+  "authors": [
+    {
+      "name": "Nyi Nyi Han",
+      "email": "nyinyi@ignitesource.net"
+    }
+  ],
+  "type": "project",
+  "require": {
+    "php": ">=7.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "nn17\\burma\\": "src/"
+    }
+  }
+}
